@@ -70,7 +70,7 @@ const b = 1;
 -   [issues](https://github.com/thx/gogocode/issues)
 -   Ding Group：34266233
 -   QQ Group：735216094
-
+-   飞书 no： 1234456
 ## License
 
 [MIT](LICENSE)
